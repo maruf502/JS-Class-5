@@ -1,0 +1,3 @@
+JS-Class-5
+
+JavaScript Number Method.
